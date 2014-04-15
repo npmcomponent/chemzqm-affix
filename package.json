@@ -1,0 +1,15 @@
+{
+  "name": "chemzqm-affix",
+  "description": "fixed of fixed element",
+  "version": "0.0.2",
+  "keywords": [
+    "fixed",
+    "position"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "anthonyshort-offset": "git://github.com/npmcomponent/anthonyshort-offset.git",
+    "yields-scrolltop": "git://github.com/npmcomponent/yields-scrolltop.git"
+  },
+  "license": "MIT"
+}

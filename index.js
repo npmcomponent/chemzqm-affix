@@ -1,5 +1,5 @@
-var offset = require('offset');
-var scrollTop = require('scrolltop');
+var offset = require('anthonyshort-offset');
+var scrollTop = require('yields-scrolltop');
 
 function affix(el, opt) {
   if (!(this instanceof affix)) return new affix(el, opt);
